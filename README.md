@@ -14,22 +14,6 @@ The report has five pages, navigable from the left-hand menu:
 | **Reviews** | Rating distribution, ratings by subcategory, average vs. expected rating by brand, top return reasons, return count |
 | **Conclusiones** (Conclusions) | Key findings and business recommendations |
 
-## Screenshots
-
-### Overview
-![Overview](screenshots/01_overview.png)
-
-### One month of purchases
-![One month](screenshots/02_one_month.png)
-
-### Geographic distribution
-![Geography](screenshots/03_geography.png)
-
-### Reviews and returns
-![Reviews](screenshots/04_reviews.png)
-
-### Conclusions
-![Conclusions](screenshots/05_conclusions.png)
 
 ## Data Model
 
